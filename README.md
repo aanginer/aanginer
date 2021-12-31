@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @aanginer
 - 👀 I’m interested in ...
--coding
--writing
--statistics
+- coding
+- writing
+- statistics
 - 🌱 I’m currently learning ...
--python
--javascript
+- python
+- javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
